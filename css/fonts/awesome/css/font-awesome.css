@@ -639,6 +639,7 @@
 }
 .fa-phone:before {
   content: "\f095";
+    color: darkblue;
 }
 .fa-square-o:before {
   content: "\f096";
@@ -820,6 +821,7 @@
 }
 .fa-envelope:before {
   content: "\f0e0";
+    color: darkblue;
 }
 .fa-linkedin:before {
   content: "\f0e1";

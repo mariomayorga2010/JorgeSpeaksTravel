@@ -223,6 +223,7 @@
 }
 .icomoon-location:before {
 	content: "\e642";
+    color: darkblue;
 }
 .icomoon-location2:before {
 	content: "\e643";
